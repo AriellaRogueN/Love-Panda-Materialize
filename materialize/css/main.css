@@ -1,9 +1,11 @@
+
+
 #panda-1  {
     background-image: url("../images/uno.jpg");
-    background-position: center;
+    background-position: center 5%;
     background-size: cover;
-    width: 100%;
-    height: 70vh ;
+    max-width: 100%;
+    height: 95vh ;
     border-bottom: 1em solid #FF8964;
     border-top: 1em solid #FF8964;
     
@@ -18,9 +20,9 @@
     border-top: 1em solid #FF8964;
     border-bottom: 1em solid #FF8964;
 }
-#s-4,#s-2 {
+#s-4, #s-2 {
     width: 100%;
-     height: 30em;
+     height: auto;
      border-bottom: 1em solid #FF8964;
      border-top: 1em solid #FF8964;
 
@@ -42,7 +44,7 @@
 
 #foo{
     width:100% ;
-    height:2em ;
+    height:auto ;
 }
 
 .card{
