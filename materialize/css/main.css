@@ -57,7 +57,8 @@
 #foo{
     width:100% ;
     height:auto ;
-}
+    padding-bottom: 1em;
+    padding-top: 1em;
 
 .card{
     margin-top: 3.5em;
