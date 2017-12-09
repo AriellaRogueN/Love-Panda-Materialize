@@ -1,0 +1,51 @@
+#panda-1  {
+    background-image: url("../images/uno.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 70vh ;
+    border-bottom: 1em solid #FF8964;
+    border-top: 1em solid #FF8964;
+    
+} 
+
+#panda-2{
+    background-image: url("../images/dos.jpg");
+    background-position: center 6%;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    border-top: 1em solid #FF8964;
+    border-bottom: 1em solid #FF8964;
+}
+#s-4,#s-2 {
+    width: 100%;
+     height: 30em;
+     border-bottom: 1em solid #FF8964;
+     border-top: 1em solid #FF8964;
+
+ }
+
+.responsive-img {
+     border:0.5em solid white;
+ }
+
+ #panda-3{
+     background-image: url("../images/tres.jpg");
+     background-position: center;
+     background-size: cover;
+     width: 100%;
+     height: 100vh;
+     border-bottom: 1em solid #FF8964;
+     border-top: 1em solid #FF8964;
+}
+
+#foo{
+    width:100% ;
+    height:2em ;
+}
+
+.card{
+    margin-top: 3.5em;
+}
+ 
