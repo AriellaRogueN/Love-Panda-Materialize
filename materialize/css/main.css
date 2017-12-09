@@ -20,13 +20,25 @@
     border-top: 1em solid #FF8964;
     border-bottom: 1em solid #FF8964;
 }
-#s-4, #s-2 {
+#s-2,  {
     width: 100%;
      height: auto;
      border-bottom: 1em solid #FF8964;
      border-top: 1em solid #FF8964;
+}
 
- }
+#s-4{
+    width: 100%;
+    height:auto;
+    border-bottom: 1em solid #FF8964;
+    border-top: 1em solid #FF8964;
+    padding-bottom: 10em;
+    padding-top: 10em;
+}
+
+.row{
+    margin-bottom: 0;
+}
 
 .responsive-img {
      border:0.5em solid white;
